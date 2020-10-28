@@ -29,3 +29,6 @@ Another way you could use this tool to your advantage is to look at which player
 
 ## Interactive Demo:
 ![](fantasyoppsdemo.gif)
+
+## Full table expanded:
+![](fantasyoppsfulltable.png)
