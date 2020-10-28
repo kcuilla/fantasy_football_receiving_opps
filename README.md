@@ -30,5 +30,8 @@ Another way you could use this tool to your advantage is to look at which player
 ## Interactive Demo:
 ![](fantasyoppsdemo.gif)
 
-## Full table expanded:
+## Full table expanded to show all rows:
 ![](fantasyoppsfulltable.png)
+
+## Full table expanded and sorted by Team and WOPR:
+![](fantasyoppsfulltable_sorted.png)
