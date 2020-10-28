@@ -28,4 +28,4 @@ Another way you could use this tool to your advantage is to look at which player
 - AVG PTS vs TOP 100 = average fantasy points scored relative to top 100 average fantasy points scored
 
 ## Interactive Demo:
-![](fantasyoppsinteractive.gif)
+![](fantasyoppsdemo.gif)
